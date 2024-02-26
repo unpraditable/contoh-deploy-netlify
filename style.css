@@ -50,6 +50,9 @@ header {
   flex-direction: column;
   justify-content: center;
   padding-top: 48px;
+  background-image: url('Penguin_bg.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 nav .circle-red {
